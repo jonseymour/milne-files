@@ -1,0 +1,125 @@
+/*1314585440,169775559*/
+
+.fbEmu .body .fbEmuLink{color:#333}
+.fbEmu .body .fbEmuLink:hover{text-decoration:none}
+.fbEmu .body a.signature{color:#3b5998;display:inline}
+.fbEmu .body a.signature:hover{text-decoration:underline}
+.fbEmu .hover:hover .title .fbEmuLink{text-decoration:underline}
+/* @noflip */
+.fbEmu .forceRTL{direction:rtl;text-align:right;display:block}
+/* @noflip */
+.fbEmu .forceLTR{direction:ltr;text-align:left;display:block}
+.fbEmu .adInfo a.identity{color:#808080;display:block;white-space:nowrap}
+.fbEmuHidePoll .undo{float:right;padding-left:2px;padding-bottom:2px;margin-bottom:3px;margin-left:5px}
+.fbEmuHidePoll .fbEmuXTitle{font-weight:bold}
+.fbEmuHidePoll .fbEmuXSubtitle{margin-bottom:10px}
+.fbEmuHideThanks .fbEmuXThanksTitle{font-weight:bold;margin-bottom:10px}
+.fbEmuLegacy .fbEmuHidePoll .otherdiv .other{width:141px}
+.fbEmuBlock .fbEmuHidePoll .otherdiv{margin-left:20px}
+.fbEmuEgo .fbEmuHidePoll .otherdiv .other{width:206px}
+.emu_x{float:right}
+.emu_x .uiSelectorButton{opacity:0}
+.old_x{opacity:0}
+.fbEmu:hover .old_x,.fbEmu:hover .uiSelectorButton,.emu_x .openToggler .uiSelectorButton{opacity:1}
+.fbEmuBlock .title{font-weight:bold;line-height:13px;margin-bottom:4px;margin-right:20px}
+.fbEmuEgo .body .fbEmuLink{line-height:13px}
+.fbEmuStreamStory .uiStreamMessage{font-weight:normal}
+.fbFeedTickerStory .fbEmuStreamStory .fbEmuStreamAttachment img{width:32px;height:32px}
+.fbFeedTickerStory .fbEmuStreamAttachment .UIImageBlock_Content{height:32px}
+.fbEmuStreamStory .fbEmuStreamTitle{display:block;font-weight:bold}
+.fbEmuStreamStory .fbEmuStreamBody{color:#666}
+.fbEmuStreamStory .uiPhotoThumb{display:inline-block}
+.fbEmuStreamStory .uiVideoThumb{display:inline-block;margin-right:5px}
+.fbEmuStreamStory .uiVideoThumb img{height:auto}
+.fbEmuStreamStory .uiVideoThumb.fbEmuSmallThumb img{max-width:60px}
+.fbEmuStreamStory .uiVideoThumb.fbEmuLargeThumb{height:70px;width:124px;background-color:#000}
+.fbEmuStreamStory .uiVideoThumb.fbEmuLargeThumb img{max-height:70px;max-width:124px;margin:auto}
+.fbEmuStreamStory .fbEmuStreamAttachment .uiPhotoThumb img{margin:3px}
+.fbEmuStreamStory .fbEmuAttachmentFrame{background-color:#000;text-align:center}
+.fbEmuStreamStory .fbEmuAttachmentFrame .uiVideoThumb{display:inline-block;margin:0}
+.fbEmuStreamStory .textOnly{width:175px;word-wrap:break-word}
+.fbEmuStreamStory .textWithMedia{max-width:125px;word-wrap:break-word}
+.fbEmuStreamAttachmentNoMedia{border-left:2px solid #ccc}
+.fbEmuStreamStory .uiUfi .ufiItem{padding:3px 3px 2px}
+.fbEmuStreamStory .uiBlingBox .text{line-height:normal}
+.fbEmuStreamStory .uiBlingBox{margin-right:-1px;margin-left:-1px}
+.fbEmuStreamStory .uiBlingBox .img{margin-top:-1px}
+.fbEmuMainBody .firstPassiveName{font-weight:bold}
+.invertedImageTest .UIImageBlock_Entity img.UIImageBlock_Image,
+.invertedImageTest .UIImageBlock_Entity i.UIImageBlock_Image,
+.invertedImageTest .UIImageBlock_Entity .UIImageBlock_Image .img{height:32px;width:32px}
+.invertedImageTest .UIImageBlock_Entity .fbEmuStreamTitle,
+.invertedImageTest .fbEmuStreamAttachment .fbEmuStreamTitle{font-weight:normal}
+.callToActionTest .fbEmuStreamAttachmentNoMedia{border-left:0}
+.callToActionTest .UIImageBlock_Content .textOnly{width:auto}
+.invertedImageTest a.uiVideoThumb img,
+.invertedImageTest a.fbEmuThumb i,
+.invertedImageTest span.fbEmuThumb i{height:32px;width:32px}
+.invertedImageTest .UIImageBlock_Entity .UIImageBlock_Content{height:32px}
+.invertedImageTest a.fbEmuPhoto.fbEmuThumb i,
+.invertedImageTest a.fbEmuPhoto.fbEmuThumb i{height:26px;width:26px}
+.invertedImageTest a.fbEmuThumbMedium i,
+.invertedImageTest span.fbEmuThumbMedium i{height:50px;width:50px}
+.invertedImageTest a.fbEmuThumb.fbEmuImg,
+.invertedImageTest span.fbEmuThumb.fbEmuImg,
+.invertedImageTest a.fbEmuThumb.fbEmuVideo,
+.invertedImageTest span.fbEmuThumb.fbEmuVideo{border:0;padding:0}
+.invertedImageTest .UIImageBlock .fbEmuVideo.UIImageBlock_Image img.fbEmuThumbVideo{padding-top:18px;width:15px;height:13px}
+.invertedImageTest .UIImageBlock_Image{margin-right:5px}
+.invertedImageTest .uiMediaThumb{padding:2px}
+.callToActionTest .fbEmuMainBody.UIImageBlock_Content,
+.invertedImageTest .fbEmuMainBody.UIImageBlock_Content{padding-top:2px}
+.invertedImageTest .fbEmuStreamStatusAttachment .UIImageBlock_Content a{color:#808080}
+.invertedImageTest.invertedSmallImageTest .uiProfilePhoto{height:32px;width:32px}
+.fbEmuStream .title{font-weight:bold;line-height:13px;margin-right:20px}
+.fbEmuStream .fbEmuContext{margin-bottom:2px}
+.fbEmuStream .action{margin:2px 0 1px 0}
+.fbEmuStream .body{line-height:13px}
+.fbEmuStreamBlockQuote{border-left:2px solid #ccc;padding:0 0 3px 8px}
+.fbEmuStream .text_exposed_link{padding:0 0 0 5px}
+.fbEmuStreamAttribution{color:#808080}
+.bassLike{margin-top:2px}
+div.fbEmuEgo .image .img{max-height:72px;max-width:100px;padding-top:3px}
+.fbEmuEgo .action{margin-top:5px}
+.fbEmuEgo{line-height:13px}
+.fbEmuEgo .fbEmuHide{margin-top:0 !important}
+.fbEmuEgo .title{font-weight:bold;margin-bottom:0 !important}
+.fbEmuEgo .image{width:100px;display:block;text-align:center}
+.fbEmuEgo .image_body_block{padding-top:3px}
+.fbEmuEgo .action{color:#777}
+.fbEmuEgo .action .fbEmuContext .fbEmuLink{color:#777}
+.fbEmuEgo .action div.UIImageBlock_Content{padding-top:1px}
+.fbEmuTracking{position:absolute;visibility:hidden}
+.fbEmuStreamStoryAttachment{padding-left:32px}
+.fbEmu .uiUfi{width:auto}
+.ego_x{float:right;opacity:0}
+.ego_unit:hover .ego_x{opacity:1}
+a.egoMediaThumb i,
+span.egoMediaThumb i{height:66px;width:94px}
+a.egoMediaThumbMedium i,
+span.egoMediaThumbMedium i{height:78px;width:104px}
+.ego_title{display:block;font-weight:bold;margin-top:2px;max-width:162px;word-wrap:break-word}
+.ego_page .UIStandardFrame_Container{padding-left:0;width:980px}
+.ego_page .UIStandardFrame_Content{width:720px}
+.ego_page .UIStandardFrame_SidebarAds{width:auto}
+.ego_column{width:244px}
+.ego_section{margin-bottom:15px}
+.ego_section .async_saving a{display:none}
+.ego_section .indicator{display:none}
+.ego_section .async_saving .indicator{display:inline}
+.ego_unit{margin-bottom:8px}
+.ego_unit + .ego_unit,
+.ego_unit + .ego_appended_units .ego_unit{padding-top:8px;border-top:1px solid #e9e9e9}
+.egoPhotoImage{float:left;padding-bottom:3px}
+.egoPhotoContext{padding-top:3px}
+div.egoProfileTemplate div{margin-top:2px}
+div.egoStatusStory{max-width:197px;word-wrap:break-word}
+.inCommonSectionList{margin-bottom:1px}
+.fbProfileNavHeaderEditButton{width:18px;height:18px;display:block}
+.fbProfileNavHeaderEditButton:hover .navHeaderPencil{opacity:.8}
+.fbProfileNavHeaderEditButton:active .navHeaderPencil{opacity:1}
+.fbxLeftNavHeaderActionLists{position:relative;top:-2px;margin-bottom:-7px}
+.uiSimpleScrollingLoadingIndicator{display:none;margin:auto}
+.async_saving .uiSimpleScrollingLoadingIndicator{display:block}
+
+#bootloader_BUr3C { height: 42px; }

@@ -1,0 +1,57 @@
+/*1314602988,169775812*/
+
+.text_exposed_root{display:inline}
+.text_exposed .text_exposed_show{display:inline}
+.text_exposed_show,
+.text_exposed .text_exposed_hide{display:none}
+.text_exposed_link{font-size: 9px;padding:0 12px 0 0;white-space:nowrap}
+.text_exposed_link_icon{margin:0 0 -1px 4px}
+.text_exposed .text_exposed_link{display:none !important}
+.creditsBalanceIcon{margin-bottom:-3px}
+.negativeBalance{color:#f03d25}
+.needsRepayment .getMore{display:none}
+.repay{display:none}
+.needsRepayment .repay{display:inline}
+.get_more_loading{display:none}
+.async_saving.get_more_loading{display:inline}
+body.canvas_live_chrome #rightCol{position:relative}
+#pagelet_canvas_actions_content a,
+#pagelet_canvas_actions_content a:hover{color:#3b5998}
+.canvas_live_chrome .canvasSidebar{position:relative;z-index:11}
+.canvasBookmarks{background-color:#edeff4;border-bottom:solid 1px #88a5c5;border-right:solid 1px #b6cadc;height:54px;position:relative;width:100%}
+.canvasBookmarks .bookmarks{padding:6px 0 0 3px}
+.canvasBookmarks .bookmarks li{padding-left:0}
+.canvasBookmarks .bookmark{background-color:#fff;height:44px;margin:0 3px 0 1px;position:relative;width:44px}
+.canvasBookmarks .bookmark .mask{display:block;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yb/r/lCznBcRYSg8.png);background-repeat:no-repeat;background-position:0 -267px;height:44px;position:absolute;width:44px}
+.canvasBookmarks .appBookmark .bookmark:active .mask,.canvasBookmarks .appBookmark .bookmark:focus .mask{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yb/r/lCznBcRYSg8.png);background-repeat:no-repeat;background-position:-44px -267px}
+.canvasBookmarks .bookmark:hover{text-decoration:none}
+.canvasBookmarks .bookmark .logo{display:block;height:40px;padding:2px;width:40px}
+.canvasBookmarks .bookmark .countWrap{position:absolute;right:-2px;text-align:right;top:-3px}
+.canvasBookmarks .bookmark .count{-moz-box-shadow:0 1px 0 rgba(0, 0, 0, .5);z-index:5}
+.canvasBookmarks .bookmark .count,.canvasBookmarks .bookmark .countValue,.canvasBookmarks .bookmark .maxCountIndicator{background-color:#f03d25 !important;color:#fff !important}
+.canvasBookmarks .bookmark .uiSideNavCountSprited{background:url(none) #f03d25 !important;padding:0 3px}
+.canvasBookmarks .bookmark .uiSideNavCountSprited span.countValue{background:url(none) #f03d25 !important;padding:0 1px 1px 1px}
+.canvasBookmarks .moreBookmark .icons{height:38px;overflow:hidden;padding:5px 0 0 5px;width:36px}
+.canvasBookmarks .moreBookmark .icon{float:left;height:14px;overflow:hidden;padding:0 4px 4px 0;width:14px}
+.canvasBookmarks .moreBookmark .icon img{height:16px;width:16px}
+.canvasBookmarks .moreBookmark .mask{cursor:default}
+.canvasBookmarks .moreBookmarksList{border-top:1px solid #ccc;margin:0 10px;padding-top:10px}
+.canvasBookmarks .moreBookmarksList .bookmarkItem{margin:0 -5px;padding:0}
+.canvasBookmarks .moreBookmarksList .bookmarkItem img{height:16px;width:16px}
+.canvasBookmarks .bookmarkFlyout{display:none;left:4px;padding-top:10px;position:absolute;top:48px;z-index:12}
+.canvasBookmarks .bookmarkWrap:hover .bookmarkFlyout{display:block}
+.canvasBookmarks .bookmarkFlyout .content{background:white;border:1px solid #333;border-bottom:2px solid #283e6a;max-height:280px;overflow-x:hidden;overflow-y:auto;position:relative;width:244px}
+.canvasBookmarks .bookmarkFlyout .content .requestsList li{display:block;padding:5px;text-decoration:none}
+.canvasBookmarks .bookmarkFlyout .content .requestsList li:hover{background-color:#e0e4ee}
+.canvasBookmarks .bookmarkFlyout .content .requestsList li a{color:#333;text-decoration:none}
+.canvasBookmarks .bookmarkFlyout .footer{margin-top:5px;text-align:right}
+.canvasBookmarks .bookmarkFlyout .nub{display:block;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-141px -397px;height:8px;position:absolute;top:3px;width:13px;z-index:12}
+.canvasBookmarks .nub1{left:17px}
+.canvasBookmarks .nub2{left:65px}
+.canvasBookmarks .nub3{left:113px}
+.canvasBookmarks .nub4{left:161px}
+.canvasBookmarks .nub5{left:209px}
+.leaderboardFacepileItem .rank{position:absolute;bottom:0;right:0;background-color:#fff;padding:0 4px}
+.canvasNuxStory{text-align:center;width:230px}
+
+#bootloader_A_FgS { height: 42px; }

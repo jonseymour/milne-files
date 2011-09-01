@@ -1,0 +1,285 @@
+/*1314738604,169776065*/
+
+.interaction_form div.dialog_content{border-width:0}
+.interaction_dialog_body{border-bottom:1px solid #ccc}
+.interaction_form_body{padding:0;border-bottom:none}
+.interaction_form .underline{border-bottom:1px solid #edeff5;margin:0 10px}
+.interaction_form .minifeedwall .story{margin-top:0;margin-bottom:0}
+.interim_status{padding:15px 10px}
+.interaction_form .story_preview_nile{padding:10px 3px 6px 20px}
+.interaction_form .link_placeholder{color:#3b5998;display:inline;padding:0}
+.interaction_form .title .link_placeholder{font-weight:bold}
+.interaction_form .not_me_link{float:right;padding:2px 10px}
+.interaction_form .feed_dialog_disclaimer{padding:0 0 10px 10px;color:#808080;font-size: 9px}
+.interaction_form .dialog_buttons{padding:10px;zoom:1}
+.interaction_form .connect_privacy_widget{display:inline-block}
+.interaction_form .dialog_buttons_msg{float:left;width:340px;text-align:left;padding-top:3px}
+.send_dialog .interaction_form .UIIntentionalStory_Pic,
+.send_dialog .interaction_form .UIIntentionalStory_Header{display:none}
+.send_dialog .interaction_form .UIIntentionalStory{padding-left:65px}
+.send_dialog .uiInfoTable{width:495px}
+.send_dialog .uiInfoTable .label{width:40px}
+.send_dialog .uiInfoTable textarea{width:425px}
+.fbChatBuddyListTypeaheadView{position:static}
+.fbChatBuddyListTypeaheadView ul{border:none}
+.fbChatBuddyListTypeaheadView li{padding:1px 15px 1px 10px}
+.fbChatBuddyListTypeaheadView.light li{border-width:0;padding:2px 15px 2px 10px}
+.fbChatBuddyListTypeaheadView.light li.selected{background-color:#d8dfea}
+.fbChatBuddyListTypeaheadView li img{float:left;height:22px;margin-right:5px;width:22px}
+.fbChatBuddyListTypeaheadView li .text{line-height:22px;margin-right:10px;overflow:hidden;padding:0;text-overflow:ellipsis;white-space:nowrap}
+.fbChatBuddyListTypeaheadView.light li.selected .text{color:#333 !important}
+.fbChatBuddyListTypeaheadView li i{display:block;height:14px;margin-top:-7px;position:absolute;right:10px;top:50%;width:7px}
+.fbChatBuddyListTypeaheadView li i.active{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-493px -422px}
+.fbChatBuddyListTypeaheadView.dark li.selected i.active{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yt/r/z6FuN8lW810.png);background-repeat:no-repeat;background-position:-300px -15px}
+.fbChatBuddyListTypeaheadView li i.idle{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-493px -392px}
+.fbChatBuddyListTypeaheadView.dark li.selected i.idle{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yt/r/z6FuN8lW810.png);background-repeat:no-repeat;background-position:-300px 0}
+.fbChatBuddyListTypeaheadView li i.mobile{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-280px -437px;height:12px;margin-top:-6px;width:8px}
+.fbChatBuddyListTypeaheadView .noResults{margin:5px 10px}
+#chatFriendsOnline .navigationLink span{background:url(http://static.ak.fbcdn.net/rsrc.php/v1/yW/r/AebrcwrBeG6.png) no-repeat right 3px;padding:0 12px 0 2px}
+#chatFriendsOnline .navigationLink,#chatFriendsOnline .navigationLink:hover{display:block;margin-left:7px;text-decoration:none}
+#chatFriendsOnline .fbFriendsOnlineFacepile .chatOffline{display:none}
+#chatFriendsOnline.isOffline .hideIfOffline,#chatFriendsOnline .showIfOffline{display:none}
+#chatFriendsOnline.isOffline .showIfOffline{display:block}
+#chatFriendsOnline .fbChatOfflineMessage{padding:0 5px 0 1px}
+#chatFriendsOnline .typeaheadContainer td:first-child{width:100%}
+#chatFriendsOnline .sidebarBtn{display:none;margin-left:3px}
+.sidebarCapable #chatFriendsOnline .sidebarBtn{display:inline-block}
+.sidebarMode #chatFriendsOnline,.sidebarMode #fbDockChatBuddylistNub.fbNub,.sidebarMode #fbChatErrorNub{display:none}
+.sidebarMode #globalContainer,.sidebarMode #ConfirmBannerOuterContainer{left:-90px;position:relative}
+.sidebarMode .liquid #globalContainer{margin:0 90px}
+.sidebarMode .fbDockWrapper.bb{right:175px}
+.sidebarMode .timelineLayout #pageHead.oph,.sidebarMode .timelineLayout .fbTimelineSideColumn{margin-right:-400px}
+.sidebarMode .fbTimelineScrubber{margin-right:-400px}
+.sidebarMode .fbTimelineStickyHeader{margin-right:-365px}
+.sidebarMode #fbTimelineCover .stickyHeader{margin-right:-399px}
+.sidebarMode #fbPhotoTheater .container{margin-left:-570px}
+.fbChatSidebar .fbChatTypeahead,.fbChatSidebar .fbChatTypeahead .wrap{border:0}
+.fbChatSidebar .fbChatTypeahead .textInput{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:0 -445px;background-color:#f4f6f9;-moz-box-shadow:inset 2px 0 0 -1px #e0e2e9, inset 0 1px #fff;box-sizing:border-box;-moz-box-sizing:border-box;color:#555;height:24px;padding-left:20px;padding-right:20px}
+.fbChatSidebar .fbChatTypeahead .textInput:focus{background-color:#fff}
+.fbChatSidebar{-moz-background-clip:padding;background-color:#f2f4f8;border-left:1px solid rgba(0, 0, 0, .4);-moz-box-shadow:inset 2px 0 2px -2px #b2b9c9;display:none;position:fixed;top:0;right:0;width:179px;z-index:1}
+.sidebarMode .fbChatSidebar{display:block}
+.fbChatSidebar .fbChatSidebarBody{overflow-x:hidden;overflow-y:auto;position:relative}
+.fbChatSidebar .scrollableOrderedList{height:100%;width:100% !important}
+.fbChatSidebar .scrollableOrderedList .uiScrollableAreaTrack{top:10px}
+.fbChatSidebar .fbChatOrderedList,.fbChatSidebar .fbChatTypeaheadView{padding-top:8px}
+.fbChatSidebar .fbChatOrderedList .item a{padding-right:22px}
+.fbChatSidebar .fbChatOrderedList .item a:hover{-moz-box-shadow:inset 2px 0 2px -2px #b2b9c9}
+.fbChatSidebar .fbChatOrderedList .item .status{right:12px}
+.fbChatSidebar .fbChatOrderedList .separator .text{background-color:#f2f4f8}
+.fbChatSidebar .fbChatSidebarMessage{background-color:#fff;border-top:1px solid #ccd0db;-moz-box-shadow:inset 0 1px #fafafa;display:none;padding:8px}
+.fbChatSidebar.error .fbChatSidebarMessage,.fbChatSidebar.offline .fbChatSidebarMessage{display:block}
+.fbChatSidebar .fbChatSidebarMessage .img{float:left;margin-top:3px}
+.fbChatSidebar.offline .fbChatSidebarMessage .img{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yU/r/WMfq-az5bpY.png);background-repeat:no-repeat;background-position:-136px -136px;height:10px;width:16px}
+.fbChatSidebar.error .fbChatSidebarMessage .img{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yU/r/WMfq-az5bpY.png);background-repeat:no-repeat;background-position:-155px -118px;height:16px;width:16px}
+.fbChatSidebar .fbChatSidebarMessage .message{margin-left:24px}
+.fbChatSidebar .fbChatSidebarFooter{border-top:1px solid #c9d0da;bottom:0;position:absolute}
+.fbChatSidebar .fbChatSidebarFooter td:first-child{vertical-align:top;width:100%}
+.fbChatSidebar .fbChatSidebarFooter .button{border-left:1px solid #c9d0da;-moz-box-shadow:inset 0 1px #fff;display:block;height:24px;width:26px}
+.fbChatSidebar .fbChatSidebarFooter .button:hover{background-color:#fff}
+.fbChatSidebar .fbChatSidebarFooter .button .uiTooltipWrap.right{margin-right:-10px;right:50%}
+.fbChatSidebar .fbChatSidebarFooter .toggle{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-66px -392px}
+.fbChatSidebarHovercard{margin:0 197px -33px 0;padding:0 !important;width:347px}
+.fbChatSidebarHovercard.HovercardBelow{margin:-33px 197px 0 0}
+.fbChatSidebarHovercard .arrow{display:none}
+.fbChatTypeahead .throbber{display:none;position:absolute;margin-top:-5px;right:6px;top:50%}
+.fbChatTypeahead.hasValue .clear,
+.fbChatTypeahead.hasValue.typeaheadLoading .throbber{display:block}
+.fbChatTypeahead.typeaheadLoading .clear{display:none}
+.fbChatTypeaheadView li{color:#333;cursor:pointer;padding:2px 20px 2px 10px;position:relative}
+.fbChatTypeaheadView li.selected{background-color:#e0e4ee}
+.fbChatTypeaheadView li img{float:left;height:28px;margin-right:5px;width:28px}
+.fbChatTypeaheadView li .text{display:block;line-height:28px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fbChatTypeaheadView li i{display:block;height:14px;margin-top:-7px;position:absolute;right:8px;top:50%;width:7px}
+.fbChatTypeaheadView li.active i{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-493px -422px}
+.fbChatTypeaheadView li.idle i{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-493px -392px}
+.fbChatTypeaheadView li.mobile i{height:12px;width:8px;margin-top:-6px;right:9px;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yX/r/RoUXfyzjA4r.png);background-repeat:no-repeat;background-position:-280px -437px}
+.fbChatTypeaheadView li.invis i{height:13px;width:13px;right:7px;background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yU/r/WMfq-az5bpY.png);background-repeat:no-repeat;background-position:0 -170px}
+.fbChatTypeaheadView .noResults{padding:10px}
+#pagelet_eventbox input.async_saving{background:url(http://static.ak.fbcdn.net/rsrc.php/v1/yb/r/GsNJNwuI-UM.gif) 207px center no-repeat}
+#pagelet_eventbox input.with_selector.async_saving{background:url(http://static.ak.fbcdn.net/rsrc.php/v1/yb/r/GsNJNwuI-UM.gif) 183px center no-repeat}
+#pagelet_eventbox .menuButton{position:static}
+#pagelet_eventbox input.event_name{width:226px}
+#pagelet_eventbox input.with_selector{width:202px}
+.liquid div#globalContainer{margin:0;min-width:980px;padding:0 10px;width:auto !important}
+.liquid #minWidthOuter{zoom:1}
+body.liquid div#contentArea{display:table-cell;float:none;width:10000px !important;zoom:1}
+.liquid #contentArea:after,.liquid #contentArea::after{clear:both;content:" F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W ! F a c e b o o k C S S F T W !";display:block;font-size: 25px;height:0 !important;line-height:0;visibility:hidden}
+.liquid #pageFooter{zoom:1}
+.UIUpcoming_Item{padding-bottom:4px}
+#UIUpcoming_New{background-color:#fff7c5;margin:-3px 0 0 -2px;padding:3px 0 2px 3px}
+.UIUpcoming_Item .UIUpcoming_NameAndTime{width:202px}
+.UIUpcoming_Time{display:inline-block;white-space:nowrap}
+#UIUpcoming_New a{margin-top:2px}
+.UIUpcoming .UIImageBlock{padding:2px 0 3px}
+.UIUpcoming_More .arrow,
+.UIUpcoming_Toggle .saving_message{position:absolute}
+.UIUpcoming_More .arrow{display:inline}
+.homeFixedTicker #rightCol{padding-top:56px}
+.home_right_column .fbFeedTicker{border-bottom:1px solid #ebebeb;-moz-box-shadow:0 1px 0 #e0e0e0;margin-left:-1px;margin-top:-1px}
+.fbFeedTicker{width:245px}
+.homeFixedTicker .uiOverlayArrowRight{margin-right:3px}
+.homeFixedTicker #rightCol .uiSideHeader,#rightCol .tickerHeader{border-bottom:1px solid #d9d9d9;border-top:1px solid #e5e5e5;padding:3px 8px}
+.homeFixedTicker #rightCol .uiSideHeader a{color:#6d84b4}
+.homeFixedTicker #rightCol .uiSideHeader .uiHeaderTitle{font-weight:bold}
+.homeFixedTicker #rightCol .tickerHeader{margin-bottom:0}
+.fbFeedTicker .fbFeedTickerStory{background:#fff no-repeat 15px 16px;border-bottom:1px solid #fff;border-top:1px solid #e9e9e9;line-height:14px;outline:0;padding:6px 14px 6px 2px;position:relative}
+.fbFeedTicker .tickerStoryHidden .tickerStoryBlock{display:none}
+.fbFeedTicker .fbFeedTickerStory .uiProfilePhoto{margin-right:8px}
+.fbFeedTicker .fbFeedTickerStory .uiFacepile .uiProfilePhoto{margin-right:0}
+.fbFeedTicker .fbFeedTickerStory .tickerFeedMessage{display:inline;font-size: 11px;font-weight:normal}
+.fbFeedTicker .fbFeedTickerStory .actorName,.fbFeedTicker .fbFeedTickerStory .actorDescription{display:inline}
+.fbFeedTicker .fbFeedTickerStory .uiStreamPassive,.fbFeedTicker .fbFeedTickerStory .tickerAttachmentBodyText{color:#535353}
+.fbFeedTicker .fbFeedTickerStory .removeStory{float:right;margin-right:-5px}
+.fbFeedTicker .fbFeedTickerStory .fbEmuHidePoll{padding-left:5px}
+.fbFeedTicker .tickerStoryClickable{cursor:pointer}
+.fbFeedTicker .tickerStoryHidden{cursor:auto}
+.fbFeedTicker .tickerStoryClickable a,.fbFeedTicker .tickerStoryClickable .passiveName,.fbFeedTicker .tickerStoryClickable .token{color:#333;outline:0;text-decoration:none}
+.fbFeedTicker .tickerStoryActive,.fbFeedTicker .tickerStoryClickable:hover{background-color:#eceff5 !important;border-bottom-color:#eceff5 !important}
+.fbFeedTicker .tickerStorySelected,.fbFeedTicker .tickerStorySelected:hover{background-color:#d8dfea !important;border-color:#a8b2ce !important}
+.fbFeedTicker .tickerStoryHidden,.fbFeedTicker .tickerStoryHidden:hover{background-color:#fff !important;border-bottom:1px solid #fff !important;border-top:1px solid #e9e9e9 !important}
+.fbFeedTicker .tickerStoryFetching:hover,.fbFeedTicker .tickerStoryFetching.tickerStorySelected{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yk/r/LOOn0JtHNzb.gif)}
+.fbFeedTicker .tickerStoryFetching:hover .uiProfilePhoto,.fbFeedTicker .tickerStoryFetching.tickerStorySelected .uiProfilePhoto{visibility:hidden}
+.fbFeedTicker .scrollTopPrompt{background:#e7e9ef url(http://static.ak.fbcdn.net/rsrc.php/v1/yU/r/n93MoBZD7fU.png) center 3px
+no-repeat;-moz-box-shadow:rgba(67, 74, 90, .3) 0 1px 0;cursor:pointer;height:10px;position:absolute;width:245px;z-index:1}
+.fbFeedTicker .scrollTopPrompt:hover{background-color:#e1e2e9}
+.home_right_column .fbFeedTicker .scrollTopPrompt{background:#fbfbfb url(http://static.ak.fbcdn.net/rsrc.php/v1/yU/r/n93MoBZD7fU.png) center 3px
+no-repeat;-moz-box-shadow:rgba(0, 0, 0, .15) 0 1px 0}
+.home_right_column .fbFeedTicker .scrollTopPrompt:hover{background-color:#f2f2f2;-moz-box-shadow:rgba(0, 0, 0, .18) 0 1px 0}
+.fbFeedTicker .fbFeedTickerStory .attachmentLink{border-left:2px solid #ccc}
+.fbFeedTicker .attachmentPhotoOuter{width:54px;height:34px;border:1px solid #ccc;padding:2px;float:left;margin-left:3px}
+.fbFeedTicker .attachmentPhotoOuter:first-child{margin-left:0}
+.fbFeedTicker .tickerPhotoAttachment{overflow:hidden}
+.fbFeedTicker .tickerStoryClickable .uiTooltipWrap{display:none}
+.fbFeedTicker .attachmentPhotoInner{overflow:hidden;width:54px;height:34px}
+.fbFeedTicker .attachmentPhoto{width:54px}
+.fbFeedTicker .highlightedStory{background-color:#fff9d7 !important;border-color:#e2c822 !important;padding:10px 5px;text-align:center}
+.fbFeedTicker .noTimestamps .ticker_timestamp{display:none}
+.fbFeedTicker .tickerSpamMenu{padding-left:5px;background:transparent !important}
+.tickerNUXDialog{margin-top:50px}
+.fbFeedTicker .fbFeedTickerStory#tickerNuxStoryDiv{background-color:#f2f2f2;border-bottom-color:#ccc;padding:6px 8px 6px 10px}
+.tickerInlineOverlay{background-color:#fff;border:1px solid #ccc;border-color:rgba(0, 0, 0, .2);-moz-border-radius:2px;border-right:none;-moz-box-shadow:5px 0 10px 10px #eceff5;color:#6d84b4;display:none;height:17px;margin-top:-12px;padding:3px 10px 0 6px;position:absolute;right:0;top:50%}
+.fbFeedTicker .tickerStoryActive .tickerInlineOverlay{display:block}
+.fbFeedTicker .tickerStorySelected .tickerInlineOverlay{-moz-box-shadow:5px 0 10px 10px #d8dfea}
+.tickerInlineOverlay:hover{border-color:#7489b6;border-color:rgba(59, 89, 152, .55)}
+.tickerInlineOverlay:active{background-color:#f9fafc;background-color:rgba(249, 250, 252, .9);border-color:rgba(59, 89, 152, .5)}
+.tickerInlineOverlayDisabled{background-color:#fff !important;border-color:rgba(0, 0, 0, .2) !important}
+.tickerInlineOverlay .tickerInlineLike input:hover,.tickerInlineOverlay .tickerInlineLike input:active{text-decoration:none}
+.tickerInlineOverlayDisabled .tickerInlineLike input,.tickerInlineOverlayDisabled .tickerInlineLike input:hover,.tickerInlineOverlayDisabled .tickerInlineLike input:active{color:#808080}
+.birthdayStory{padding:3px 5px}
+.home_right_column .eventBoxHeader{margin-bottom:6px}
+.tickerInlineOverlayLink{bottom:-11px;display:none;height:25px;position:absolute;right:0;z-index:1;width:170px}
+.tickerInlineOverlayLinkWrap:hover{background-color:#ebeef4}
+.tickerInlineOverlayLinkWrap{background-color:#f7f8fb;border:1px solid rgba(50,89,152,.15);border-bottom:1px solid rgba(50,89.152,.25);-moz-border-radius:2px;-moz-box-shadow:inset 0 1px 0 #fbfcfd;color:#3b5998;float:right;margin-right:10px;padding:3px 7px 3px 7px}
+.tickerInlineOverlayLink .inlineLikePrompt input,.tickerInlineOverlayLink .inlineLikeConfirmation input{font-size: 9px;font-weight:bold;margin-top:1px}
+.tickerChildSelected .fbFeedTickerStory:hover .tickerInlineOverlayLink{display:none}
+.fbFeedTickerStory:hover .tickerInlineOverlayLink,.tickerChildSelected .tickerStorySelected .tickerInlineOverlayLink,.tickerChildSelected .tickerStorySelected:hover .tickerInlineOverlayLink{display:block}
+.tickerInlineLikeButton.async_saving .default_action,.tickerInlineLikeButton .saving_action{display:none}
+.tickerInlineLikeButton .default_action,.tickerInlineLikeButton.async_saving .saving_action{display:block}
+.tickerInlineOverlayLink .tickerInlineLikeButton input:hover,.tickerInlineOverlayLink .tickerInlineLikeButton input:active{text-decoration:none}
+.ego_wide div#globalContainer{width:1020px}
+.ego_wide .hasRightCol #contentArea{width:760px}
+.ego_wide.liquid div#globalContainer{min-width:1020px}
+.canvas_iframe_util{overflow:hidden;width:646px;height:800px}
+.frame_wide .canvas_iframe_util{width:760px}
+.frame_wide #fb_sell_profile{overflow:hidden;max-height:100px}
+.fbframe .canvas_rel_positioning{position:relative;overflow:hidden;zoom:1}
+#canvas_throbber{display:none;padding:220px 0;text-align:center}
+#canvas_throbber.async_saving{display:block}
+#iframe_canvas,
+#iframe_canvas_fb_https{width:100%}
+body.canvas_fixed div#blueBar{position:fixed;top:0;z-index:11}
+body.canvas_fixed div#pageHead{position:fixed;top:0;width:1006px;z-index:12}
+body.canvas_fixed.liquid div#pageHead{width:100%}
+body.canvas_fixed.liquid div#headNav{margin-right:20px}
+body.canvas_fixed div#rightCol{height:1px}
+body.canvas_fixed #contentCol{margin-top:41px}
+body.canvas_fixed .slimHeaderContainer #contentCol{margin-top:33px}
+body.canvas_fixed .fixedAux{border-left:solid 1px #b3b3b3;border-right:solid 1px #b3b3b3;bottom:0;margin-left:-1px;position:fixed;top:41px}
+body.canvas_fixed .slimHeaderContainer .fixedAux{top:36px}
+body.canvas_fixed .fixedAux div#pagelet_ego_pane{background-color:#fff;bottom:0;padding-bottom:31px;position:absolute;z-index:10}
+.achievementLockedContainer{position:relative}
+.achievementLockedOverlay{z-index:1;position:absolute;right:10px;top:10px}
+.achievementPreview{display:block;margin-right:1px}
+.achievementLockedContainer .achievementPreview{opacity:.3;-moz-opacity:.3}
+.hovercard.AchievementBadgeHovercard .stage{max-width:300px}
+.achievementTooltip{display:block}
+body.canvas_live_chrome .ego_unit{margin-left:3px;margin-right:3px}
+body.canvas_live_chrome.liquid div#pageHead{margin-left:10px}
+body.canvas_live_chrome div#globalContainer{padding-left:0;width:1006px}
+body.canvas_live_chrome.liquid div#globalContainer{min-width:1020px}
+body.canvas_live_chrome #mainContainer{border-right:1px solid #b3b3b3}
+body.canvas_live_chrome #contentCol{padding-top:0}
+body.canvas_live_chrome #rightCol{border-left:1px solid #b3b3b3;margin-left:-1px;min-height:1px}
+body.canvas_live_chrome #bottomContent{display:none}
+body.canvas_live_chrome #contentCurve{margin:0 8px}
+body.canvas_live_chrome #footerContainer{margin:0 8px 25px 8px}
+body.canvas_live_chrome div#contentArea{border-right:1px solid #b3b3b3}
+body.canvas_live_chrome div#contentArea::after{display:none}
+body.canvas_live_chrome #rightCol .fbFeedTicker{width:244px}
+body.canvas_live_chrome #rightCol .fbFeedTicker .ticker_container{max-height:10000px;width:265px}
+body.canvas_live_chrome #rightCol .fbFeedTicker .ticker_fadebox{display:none}
+body.canvas_live_chrome #rightCol .fbFeedTickerStoryFooter{margin-left:42px}
+body.canvas_live_chrome .fbFeedTickerStory:hover .tickerInlineOverlay{display:block}
+body.canvas_live_chrome .fbFeedTickerStory .uiSelectorMenuWrapper{max-width:235px;z-index:20}
+body.canvas_live_chrome .fbFeedTickerStory .uiSelector .uiCloseButton{margin-right:5px}
+body.canvas_live_chrome .fbFeedTickerStory .uiSelectorMenuWrapper .uiMenuItemBigLabel .itemLabel{max-width:235px;min-width:200px}
+.typeahead_list{background:transparent;border:1px solid #bdc7d8;border-top:none;font-size: 11px;margin-top:-1px;overflow:auto;position:absolute;text-align:left;z-index:97}
+.generic_dialog .typeahead_list,.typeahead_list_absolute{z-index:300}
+.typeahead_list .typeahead_suggestion,.typeahead_list .typeahead_message{border-top:1px solid #ddd;padding:3px}
+.typeahead_list .typeahead_suggestion{background:#fff;color:#000;cursor:default;opacity:.94}
+.typeahead_list .typeahead_suggestion:hover{cursor:pointer;cursor:hand}
+.typeahead_list .typeahead_suggestion em{background:#d8dfea;color:#000;font-style:normal;font-weight:bold}
+.typeahead_list .typeahead_suggestion small{color:#808080;padding-left:5px}
+.typeahead_list .typeahead_selected{background:#3b5998;color:#fff;opacity:1}
+.typeahead_list .typeahead_selected small{color:#95a5c6}
+.typeahead_list .typeahead_selected em{background:#5670a6;color:#fff}
+.typeahead_list .typeahead_message{background:#eee;color:#333}
+input.typeahead_found{background-color:#e1e9f6}
+.typeahead_iframe{left:0;opacity:0;position:absolute;top:0}
+.typeahead_parent{margin:0;padding:0;overflow:visible;position:relative;float:left;width:0;height:0}
+.typeahead_list_icon{width:27px;height:22px;position:absolute;left:-30px;top:3px;cursor:pointer;padding:0}
+.tokenizer{min-height:5px;padding:0 0 3px 3px;width:100%;background:#fff;font-size: 11px}
+.tokenizer_locked{background:#f4f4f4}
+.tokenizer,.tokenizer *{cursor:text}
+.tokenizer .placeholder{color:#777;float:left;margin-top:5px}
+.tokenizer input{width:100%}
+.tokenizer .tokenizer_input,.tokenizer .token{float:left;margin-right:3px;margin-top:3px}
+.tokenizer .tab_stop,.tokenizer .tokenizer_stretcher{display:block;float:left;overflow:hidden}
+.tokenizer .tab_stop{height:1px;width:1px}
+.tokenizer .tokenizer_stretcher{width:0;padding-top:7px}
+#facebook .tokenizer .tab_stop input{border:0 solid black;display:inline;position:relative;left:-500px}
+.tokenizer_input_borderless div{left:4px;margin-left:-1px;overflow:hidden;position:relative}
+.tokenizer_input_borderless div input{border:3px solid white!important;border-left:none;display:block;margin:-2px 0 -2px -2px;padding:0!important}
+.tokenizer div:-moz-first-node{padding-top:1px!important}
+.tokenizer_input{max-width:450px;overflow:hidden;padding:1px 0}
+#facebook .tokenizer_input input,.tokenizer_input_shadow{border:0 solid black;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size: 11px;padding:0 5px;white-space:pre}
+.tokenizer_input_shadow{display:inline;position:absolute;top:-9999999px}
+.tokenizer .tokenizer_input_shadow{height:0;display:block;left:0;overflow:hidden;position:relative;top:0}
+div.tokenizer .inline_placeholder{color:#777;display:block;float:left;padding:5px 0 0 2px}
+div.tokenizer .token{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yK/r/mD9hhq3V835.gif);background-repeat:no-repeat;color:#000;white-space:nowrap}
+div.tokenizer .token span{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yK/r/mD9hhq3V835.gif);background-position:top right;background-repeat:no-repeat;display:block}
+div.tokenizer .token span span{background-position:bottom right}
+div.tokenizer .token span span span{background-position:bottom left}
+div.tokenizer .token span span span span{background-image:none;padding:2px 3px 2px 5px}
+div.tokenizer.tokenizer_locked .token span span span span{padding-right:5px}
+html div.tokenizer_locked .token:hover,html div.tokenizer_locked .token:hover span{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yK/r/mD9hhq3V835.gif)}
+div.tokenizer .token:hover,div.tokenizer .token:hover span{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/ym/r/Ze4Z6J_Shqw.gif);text-decoration:none}
+div.tokenizer .token_selected,div.tokenizer .token_selected span,div.tokenizer .token_selected:hover,div.tokenizer .token_selected:hover span{background-image:url(http://static.ak.fbcdn.net/rsrc.php/v1/yY/r/4A94TeChhwl.gif);color:#fff;text-decoration:none}
+div.tokenizer .token span.x,div.tokenizer .token span.x_hover,div.tokenizer .token:hover span.x,div.tokenizer .token:hover span.x_hover{background:url(http://static.ak.fbcdn.net/rsrc.php/v1/yV/r/IJYgcESal33.png) no-repeat -842px -64px;cursor:pointer;display:inline;padding:0 6px 0 5px}
+div.tokenizer.tokenizer_locked .token span.x,div.tokenizer.tokenizer_locked .token span.x_hover{display:none}
+div.standard_tokenizer div.tokenizer{border:solid 1px #8f96bd}
+.typeahead_list .typeahead_suggestion .with_pic small{padding-left:0}
+.uiScrollableArea{height:100%;overflow:hidden;position:relative;width:100%}
+.uiScrollableAreaBody{height:100%;overflow-x:hidden;overflow-y:auto;position:relative;width:150%}
+.native .uiScrollableAreaBody,.native .uiScrollableAreaContent,.no_js .uiScrollableAreaBody,.no_js .uiScrollableAreaContent{width:auto !important}
+.uiScrollableAreaContent{position:relative}
+.uiScrollableAreaTrack{bottom:2px;display:block;position:absolute;right:2px;top:2px;width:7px;z-index:5}
+.native .uiScrollableAreaTrack,.no_js .uiScrollableAreaTrack{display:none}
+.fade .uiScrollableAreaTrack{opacity:0}
+.uiScrollableAreaGripper{background-color:rgba(0, 0, 0, .4);-moz-border-radius:7px;position:absolute;width:7px}
+.uiClearableTypeahead .selected .clear{display:block}
+.uiClearableTypeahead .clear,.uiTypeaheadDisabled .selected .clear{display:none;position:absolute;margin-top:-7px;right:3px;top:50%}
+.uiClearableTypeahead .selected{padding-right:16px}
+.uiTypeaheadDisabled .selected{padding-right:0}
+
+#bootloader_XOAB7 { height: 42px; }
